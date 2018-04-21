@@ -13,6 +13,8 @@ ZCZC W05 mencoba demo W05
 
 ZCZC W06 sudah mencoba demo W06
 
-ZCZC W06 sudah mencoba demo W06
+ZCZC W07 sudah mencoba demo W07
+
+ZCZC W08 sudah mencoba demo W08
 
 
